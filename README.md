@@ -1,6 +1,7 @@
 # My-python-journey 
 This repository is used to document and explain what I learn in python.
 # Topics covered
+day1: 29&30 Dec 2025
 
 1.Backslash (`\`)
 - Used to escape special characters in strings
